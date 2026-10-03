@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Nacim Rached
+## 👋 Hi, I'm Nacim Rached (also spelled Nassim Rached)
 
 I build mobile and web applications using React Native, Expo, TypeScript, and Node.js backends.
 
